@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/155-Min-Stack/main.cpp
+min_stack.h
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/155-Min-Stack/min_stack.h
+iostream
+-
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/155-Min-Stack/min_stack.h
+stack
+-
+climits
+-
+
