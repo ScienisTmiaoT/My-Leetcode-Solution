@@ -72,6 +72,7 @@ public:
             prio_que.pop();
             if(first + 1 < len1)
                 prio_que.emplace(first + 1, second);
+            // avoid repeating add pairs into queue
             if((first == 0) && (second + 1 < len2))
                 prio_que.emplace(first, second + 1);
         }
