@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/373-Find-K-Pairs-with-Smallest-Sums/k_pairs.h
+vector
+-
+map
+-
+algorithm
+-
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/373-Find-K-Pairs-with-Smallest-Sums/main.cpp
+k_pairs.h
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/373-Find-K-Pairs-with-Smallest-Sums/k_pairs.h
+iostream
+-
+
