@@ -9,6 +9,9 @@
 #include <iostream>
 #include <algorithm>
 
+//if nums1[k / 2] > nums2[k / 2], we can delete the fore k /2 numbers in nums2
+//for that the fore k / 2 numbers in nums2 must be in the k numbers we want
+// to find, so we don't need to know them.
 class Solution {
 public:
     double findMedianSortedArrays(std::vector<int>& nums1, std::vector<int>&
