@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/4-Median-of-Two-Sorted-Arrays/main.cpp
+iostream
+-
+vector
+-
+median.h
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/4-Median-of-Two-Sorted-Arrays/median.h
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/4-Median-of-Two-Sorted-Arrays/median.h
+vector
+-
+iostream
+-
+algorithm
+-
+
