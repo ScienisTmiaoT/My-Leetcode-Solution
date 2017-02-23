@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/15-3Sum/main.cpp
+sum.h
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/15-3Sum/sum.h
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/15-3Sum/sum.h
+iostream
+-
+vector
+-
+algorithm
+-
+
