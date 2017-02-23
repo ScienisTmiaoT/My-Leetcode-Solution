@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/26-Remove-Duplicates-from-Sorted-Array/array.h
+iostream
+-
+vector
+-
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/26-Remove-Duplicates-from-Sorted-Array/main.cpp
+array.h
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/26-Remove-Duplicates-from-Sorted-Array/array.h
+
