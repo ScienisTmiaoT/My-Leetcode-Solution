@@ -2,8 +2,9 @@
 
 int main() {
     Solution *s = new Solution();
-    std::vector<int> num{1, 2, 2, 2, 4, 4, 4, 4, 4, 5, 5, 5, 6};
-    std::vector<int> result = s->searchRange(num, 6);
+//    std::vector<int> num{1, 2, 2, 2, 4, 4, 4, 4, 4, 5, 5, 5, 6};
+    std::vector<int> num{4, 4, 4, 4, 4, 5};
+    std::vector<int> result = s->searchRangeT(num, 4);
     std::cout << result[0] << " " << result[1] << std::endl;
 
 //    std::vector<int> xxx{9, 3, 2, 1};
