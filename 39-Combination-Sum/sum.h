@@ -37,6 +37,7 @@ private:
         i++) {
             item.push_back(candidates[i]);
             //注意这里传递的是i而不是begin否则会出现很多重复数据
+            //而且这里是从i开始而不是i+1开始是为了允许同一个数可以多次被使用
             tool(candidates, target - candidates[i], result, item, i);
             item.pop_back();
         }
