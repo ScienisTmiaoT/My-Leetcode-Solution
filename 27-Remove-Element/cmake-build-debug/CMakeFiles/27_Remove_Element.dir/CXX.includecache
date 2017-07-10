@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/27-Remove-Element/ele.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/27-Remove-Element/main.cpp
+ele.h
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/27-Remove-Element/ele.h
+

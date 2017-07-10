@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/42-Trapping-Rain-Water/main.cpp
+rain.h
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/42-Trapping-Rain-Water/rain.h
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/42-Trapping-Rain-Water/rain.h
+iostream
+-
+vector
+-
+algorithm
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/34-A-Range/main.cpp
+range.h
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/34-A-Range/range.h
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/34-A-Range/range.h
+iostream
+-
+vector
+-
+algorithm
+-
+
