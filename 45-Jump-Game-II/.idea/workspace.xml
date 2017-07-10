@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="45_Jump_Game_II" targetName="45_Jump_Game_II" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a986097-733c-4a2f-9f11-35865a0f7e7a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../27-Remove-Element/cmake-build-debug/27_Remove_Element.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../27-Remove-Element/cmake-build-debug/CMakeFiles/27_Remove_Element.dir/main.cpp.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../27-Remove-Element/cmake-build-debug/CMakeFiles/27_Remove_Element.dir/objects.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/31_Next_Permutation.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_C.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/31_Next_Permutation.dir/main.cpp.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/31_Next_Permutation.dir/objects.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_12eac.dir/feature_tests.c.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/33_Rotated_Array.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_C.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_CXX.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/main.cpp.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/objects.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/34_A_Range.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_C.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_CXX.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/34_A_Range.dir/main.cpp.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/34_A_Range.dir/objects.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/35_Insert_Position.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_C.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_CXX.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/35_Insert_Position.dir/main.cpp.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/35_Insert_Position.dir/objects.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/39_Combination_Sum.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_C.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_CXX.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/39_Combination_Sum.dir/main.cpp.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/39_Combination_Sum.dir/objects.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/40_Combination_Sum_II.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_C.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_CXX.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/40_Combination_Sum_II.dir/main.cpp.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/40_Combination_Sum_II.dir/objects.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/41_First_Missing_Positive.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_C.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_CXX.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/41_First_Missing_Positive.dir/main.cpp.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/41_First_Missing_Positive.dir/objects.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/42_Trapping_Rain_Water.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_C.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_CXX.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/a.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/42_Trapping_Rain_Water.dir/main.cpp.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/42_Trapping_Rain_Water.dir/objects.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../27-Remove-Element/cmake-build-debug/CMakeFiles/27_Remove_Element.dir/CXX.includecache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../27-Remove-Element/cmake-build-debug/CMakeFiles/27_Remove_Element.dir/depend.internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/31_Next_Permutation.cbp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeCache.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/3.7.2/CMakeCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/3.7.2/CMakeRCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/3.7.2/CMakeSystem.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/CMakeCCompilerId.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/31_Next_Permutation.dir/CXX.includecache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/31_Next_Permutation.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/31_Next_Permutation.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/31_Next_Permutation.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/31_Next_Permutation.dir/depend.internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/31_Next_Permutation.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/31_Next_Permutation.dir/flags.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/31_Next_Permutation.dir/link.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/31_Next_Permutation.dir/linklibs.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/31_Next_Permutation.dir/objects1.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/31_Next_Permutation.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeCache.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/TargetDirectories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_12eac.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_12eac.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_12eac.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_12eac.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_12eac.dir/flags.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_12eac.dir/link.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_12eac.dir/linklibs.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_12eac.dir/objects1.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_12eac.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmake.check_cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/progress.marks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/CMakeTmp/cmake_install.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/cmake.check_cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../31-Next-Permutation/cmake-build-debug/cmake_install.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/33_Rotated_Array.cbp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeCache.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/3.7.2/CMakeCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/3.7.2/CMakeRCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/3.7.2/CMakeSystem.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/CMakeCCompilerId.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/CXX.includecache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/depend.internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/flags.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/link.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/linklibs.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/objects1.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/cmake.check_cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../33-Rotated-Array/cmake-build-debug/cmake_install.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/34_A_Range.cbp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeCache.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/3.7.2/CMakeCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/3.7.2/CMakeRCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/3.7.2/CMakeSystem.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/CMakeCCompilerId.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/34_A_Range.dir/CXX.includecache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/34_A_Range.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/34_A_Range.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/34_A_Range.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/34_A_Range.dir/depend.internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/34_A_Range.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/34_A_Range.dir/flags.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/34_A_Range.dir/link.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/34_A_Range.dir/linklibs.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/34_A_Range.dir/objects1.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/34_A_Range.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/cmake.check_cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../34-A-Range/cmake-build-debug/cmake_install.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/35_Insert_Position.cbp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeCache.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/3.7.2/CMakeCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/3.7.2/CMakeRCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/3.7.2/CMakeSystem.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/CMakeCCompilerId.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/35_Insert_Position.dir/CXX.includecache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/35_Insert_Position.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/35_Insert_Position.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/35_Insert_Position.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/35_Insert_Position.dir/depend.internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/35_Insert_Position.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/35_Insert_Position.dir/flags.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/35_Insert_Position.dir/link.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/35_Insert_Position.dir/linklibs.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/35_Insert_Position.dir/objects1.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/35_Insert_Position.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/cmake.check_cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../35-Insert-Position/cmake-build-debug/cmake_install.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/39_Combination_Sum.cbp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeCache.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/3.7.2/CMakeCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/3.7.2/CMakeRCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/3.7.2/CMakeSystem.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/CMakeCCompilerId.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/39_Combination_Sum.dir/CXX.includecache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/39_Combination_Sum.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/39_Combination_Sum.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/39_Combination_Sum.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/39_Combination_Sum.dir/depend.internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/39_Combination_Sum.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/39_Combination_Sum.dir/flags.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/39_Combination_Sum.dir/link.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/39_Combination_Sum.dir/linklibs.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/39_Combination_Sum.dir/objects1.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/39_Combination_Sum.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/cmake.check_cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../39-Combination-Sum/cmake-build-debug/cmake_install.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/40_Combination_Sum_II.cbp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeCache.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/3.7.2/CMakeCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/3.7.2/CMakeRCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/3.7.2/CMakeSystem.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/CMakeCCompilerId.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/40_Combination_Sum_II.dir/CXX.includecache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/40_Combination_Sum_II.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/40_Combination_Sum_II.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/40_Combination_Sum_II.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/40_Combination_Sum_II.dir/depend.internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/40_Combination_Sum_II.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/40_Combination_Sum_II.dir/flags.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/40_Combination_Sum_II.dir/link.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/40_Combination_Sum_II.dir/linklibs.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/40_Combination_Sum_II.dir/objects1.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/40_Combination_Sum_II.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/cmake.check_cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../40-Combination-Sum-II/cmake-build-debug/cmake_install.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/41_First_Missing_Positive.cbp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeCache.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/3.7.2/CMakeCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/3.7.2/CMakeRCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/3.7.2/CMakeSystem.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/CMakeCCompilerId.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/41_First_Missing_Positive.dir/CXX.includecache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/41_First_Missing_Positive.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/41_First_Missing_Positive.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/41_First_Missing_Positive.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/41_First_Missing_Positive.dir/depend.internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/41_First_Missing_Positive.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/41_First_Missing_Positive.dir/flags.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/41_First_Missing_Positive.dir/link.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/41_First_Missing_Positive.dir/linklibs.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/41_First_Missing_Positive.dir/objects1.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/41_First_Missing_Positive.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/cmake.check_cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../41-First-Missing-Positive/cmake-build-debug/cmake_install.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/42_Trapping_Rain_Water.cbp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeCache.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/3.7.2/CMakeCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/3.7.2/CMakeRCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/3.7.2/CMakeSystem.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/CMakeCCompilerId.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/42_Trapping_Rain_Water.dir/CXX.includecache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/42_Trapping_Rain_Water.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/42_Trapping_Rain_Water.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/42_Trapping_Rain_Water.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/42_Trapping_Rain_Water.dir/depend.internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/42_Trapping_Rain_Water.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/42_Trapping_Rain_Water.dir/flags.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/42_Trapping_Rain_Water.dir/link.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/42_Trapping_Rain_Water.dir/linklibs.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/42_Trapping_Rain_Water.dir/objects1.rsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/42_Trapping_Rain_Water.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/cmake.check_cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../42-Trapping-Rain-Water/cmake-build-debug/cmake_install.cmake" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="game.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/game.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="71" column="28" lean-forward="true" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+              <folding>
+                <element signature="e#113#132#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/game.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="45_Jump_Game_II" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="45-Jump-Game-II" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.45_Jump_Game_II">
+    <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="NW.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="45-Jump-Game-II" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <platform value="ANDROID" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="45-Jump-Game-II" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="45-Jump-Game-II" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="45-Jump-Game-II" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="45-Jump-Game-II" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="45-Jump-Game-II" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="45_Jump_Game_II" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="45_Jump_Game_II" TARGET_NAME="45_Jump_Game_II" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="45_Jump_Game_II" RUN_TARGET_NAME="45_Jump_Game_II">
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.45_Jump_Game_II" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a986097-733c-4a2f-9f11-35865a0f7e7a" name="Default" comment="" />
+      <created>1499655387224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499655387224</updated>
+      <workItem from="1499655388854" duration="8442000" />
+    </task>
+    <task id="LOCAL-00001" summary="45. Jump Game II">
+      <created>1499678599925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1499678599925</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8442000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33015874" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="45. Jump Game II" />
+    <option name="LAST_COMMIT_MESSAGE" value="45. Jump Game II" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="71" column="28" lean-forward="true" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+          <folding>
+            <element signature="e#113#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
