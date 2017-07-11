@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/57-Insert-Interval/insert.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/57-Insert-Interval/main.cpp
+insert.h
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/57-Insert-Interval/insert.h
+
