@@ -64,6 +64,7 @@ private:
         for(int i = 0; i < 4; i++) {
             x += direction[i][0];
             y += direction[i][1];
+            //利用短路效应先判断x和y，否则会越界
             if(x < 0 || x >= m || y < 0 || y >= n
                || board[x][y] != word[index] || history[x][y] == 1) {
                 x -= direction[i][0];
