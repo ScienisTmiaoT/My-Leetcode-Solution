@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/79-Word-Search/main.cpp
+search.h
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/79-Word-Search/search.h
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/79-Word-Search/search.h
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+

@@ -1,0 +1,4 @@
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\79-Word-Search"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/79-Word-Search/cmake-build-debug
