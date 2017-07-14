@@ -85,4 +85,42 @@ private:
         return res;
     }
 };
+
+/*
+ * 这种方法在原来的基础上优化了存储空间，没用使用额外的标记数组，而是直接将已经走过的点
+ * 改为不可能出现的字符'*'，然后再进行DFS，这里也没有使用方向数组，没有使用循环，这样一来
+ * 可以省略很多在递归回退时需要恢复的状态，因为这些状态都保存在栈空间里面，所以每层回退都是原来的值
+ */
+class SolutionT {
+public:
+    bool exist(std::vector<std::vector<char>>& board, std::string word) {
+        m = board.size(), n = board[0].size(), wlen = word.size();
+        bool res = false;
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(board[i][j] == word[0]) {
+                    res = tool(board, word, i, j, 0);
+                    if(res) return res;
+                }
+            }
+        }
+        return res;
+    }
+private:
+    int m, n, wlen;
+    bool tool(std::vector<std::vector<char>>& board, std::string& word,
+              int x, int y, int index) {
+        if(index == wlen) return true;
+        if(x < 0 || x >= m || y < 0 || y >= n || board[x][y] != word[index])
+            return false;
+        char temp = board[x][y];
+        board[x][y] = '*';
+        //这里将x,y,index传进去，如果返回的结果为false，那么，下一次寻找的起点还是原来的点
+        if(tool(board, word, x, y-1, index+1) || tool(board, word, x, y+1, index+1) ||
+            tool(board, word, x-1, y, index+1) || tool(board, word, x+1, y, index+1))
+            return true;
+        board[x][y] = temp;
+        return false;
+    }
+};
 #endif //INC_79_WORD_SEARCH_SEARCH_H
