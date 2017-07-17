@@ -55,5 +55,28 @@ public:
         }
         return false;
     }
+
+    //另外一种很简洁的方法，这里主要是通过比较middle和right来判断，因而在两者相同的情况下
+    //直接修改right的值
+    bool searchT(std::vector<int>& nums, int target) {
+        int len = nums.size();
+        int left = 0, right = len - 1;
+        int middle = 0;
+        while(left <= right){
+            middle = (left + right) / 2;
+            if(nums[middle] == target) return true;
+            if(nums[middle] > nums[right]){
+                if(nums[middle] > target && nums[left] <= target) right = middle;
+                else left = middle + 1;
+            }else if(nums[middle] < nums[right]){
+                if(nums[middle] < target && nums[right] >= target) left = middle + 1;
+                else right = middle;
+            }else{
+                right--;
+            }
+
+        }
+        return false;
+    }
 };
 #endif //INC_81_SEARCH_IN_ROTATED_SORTED_ARRAY_II_ARRAY_H
