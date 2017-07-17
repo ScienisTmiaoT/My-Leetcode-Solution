@@ -1,4 +1,4 @@
-# Install script for directory: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/33-Rotated-Array
+# Install script for directory: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/33-Search-in-Rotated-Sorted-Array
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/33-Rotated-Array/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/33-Search-in-Rotated-Sorted-Array/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

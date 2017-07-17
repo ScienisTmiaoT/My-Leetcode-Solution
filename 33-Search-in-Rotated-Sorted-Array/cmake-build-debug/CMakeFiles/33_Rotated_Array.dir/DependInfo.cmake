@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/33-Rotated-Array/main.cpp" "D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/33-Rotated-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/main.cpp.obj"
+  "D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/33-Search-in-Rotated-Sorted-Array/main.cpp" "D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/33-Search-in-Rotated-Sorted-Array/cmake-build-debug/CMakeFiles/33_Rotated_Array.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
