@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Marvin/Collection/Git/Github/C++/Interview Exercise/105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/main.cpp
+tree.h
+D:/Marvin/Collection/Git/Github/C++/Interview Exercise/105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/tree.h
+
+D:/Marvin/Collection/Git/Github/C++/Interview Exercise/105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/tree.h
+iostream
+-
+vector
+-
+algorithm
+-
+
