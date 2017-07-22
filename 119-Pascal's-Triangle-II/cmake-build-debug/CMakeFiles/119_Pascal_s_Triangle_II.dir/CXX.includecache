@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/119-Pascal's-Triangle-II/main.cpp
+triangle.h
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/119-Pascal's-Triangle-II/triangle.h
+
+D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/119-Pascal's-Triangle-II/triangle.h
+iostream
+-
+vector
+-
+algorithm
+-
+
