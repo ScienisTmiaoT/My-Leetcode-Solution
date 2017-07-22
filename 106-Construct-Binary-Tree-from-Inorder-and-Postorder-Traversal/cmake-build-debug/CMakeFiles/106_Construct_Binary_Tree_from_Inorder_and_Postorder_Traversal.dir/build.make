@@ -42,10 +42,10 @@ RM = "C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal"
+CMAKE_SOURCE_DIR = "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug"
+CMAKE_BINARY_DIR = "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversa
 
 CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/main.cpp.obj: CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/flags.make
 CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/main.cpp.obj"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir\main.cpp.obj -c "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/main.cpp.obj"
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir\main.cpp.obj -c "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\main.cpp"
 
 CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/main.cpp.i"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\main.cpp" > CMakeFiles\106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir\main.cpp.i
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\main.cpp" > CMakeFiles\106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir\main.cpp.i
 
 CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/main.cpp.s"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\main.cpp" -o CMakeFiles\106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir\main.cpp.s
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\main.cpp" -o CMakeFiles\106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir\main.cpp.s
 
 CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/main.cpp.obj.requires:
 
@@ -92,7 +92,7 @@ CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/ma
 106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.exe: CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/linklibs.rsp
 106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.exe: CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/objects1.rsp
 106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.exe: CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/cl
 .PHONY : CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/clean
 
 CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal" "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal" "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug" "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug" "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal" "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal" "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug" "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug" "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.dir/depend
 

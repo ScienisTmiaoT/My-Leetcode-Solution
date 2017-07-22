@@ -1,4 +1,4 @@
-# Install script for directory: D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal
+# Install script for directory: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

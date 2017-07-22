@@ -47,10 +47,10 @@ RM = "C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal"
+CMAKE_SOURCE_DIR = "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug"
+CMAKE_BINARY_DIR = "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles" "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles" "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target

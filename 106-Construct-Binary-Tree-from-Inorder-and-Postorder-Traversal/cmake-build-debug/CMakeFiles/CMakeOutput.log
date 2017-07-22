@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
 
-The C compiler identification is GNU, found in "D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/a.exe"
+The C compiler identification is GNU, found in "D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/a.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/g++.exe 
@@ -23,37 +23,37 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
 
-The CXX compiler identification is GNU, found in "D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/a.exe"
+The CXX compiler identification is GNU, found in "D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/a.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_d9b45/fast"
-C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_d9b45.dir\build.make CMakeFiles/cmTC_d9b45.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_d9b45.dir/testCCompiler.c.obj
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe     -o CMakeFiles\cmTC_d9b45.dir\testCCompiler.c.obj   -c "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
-Linking C executable cmTC_d9b45.exe
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d9b45.dir\link.txt --verbose=1
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_d9b45.dir/objects.a
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_d9b45.dir/objects.a @CMakeFiles\cmTC_d9b45.dir\objects1.rsp
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTC_d9b45.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d9b45.exe -Wl,--out-implib,libcmTC_d9b45.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_d9b45.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_6a7bc/fast"
+C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_6a7bc.dir\build.make CMakeFiles/cmTC_6a7bc.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6a7bc.dir/testCCompiler.c.obj
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe     -o CMakeFiles\cmTC_6a7bc.dir\testCCompiler.c.obj   -c "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_6a7bc.exe
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_6a7bc.dir\link.txt --verbose=1
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_6a7bc.dir/objects.a
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_6a7bc.dir/objects.a @CMakeFiles\cmTC_6a7bc.dir\objects1.rsp
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTC_6a7bc.dir/objects.a -Wl,--no-whole-archive  -o cmTC_6a7bc.exe -Wl,--out-implib,libcmTC_6a7bc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_6a7bc.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_7dd7e/fast"
-C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_7dd7e.dir\build.make CMakeFiles/cmTC_7dd7e.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_7dd7e.dir/CMakeCCompilerABI.c.obj
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe     -o CMakeFiles\cmTC_7dd7e.dir\CMakeCCompilerABI.c.obj   -c "C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\share\cmake-3.7\Modules\CMakeCCompilerABI.c"
-Linking C executable cmTC_7dd7e.exe
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_7dd7e.dir\link.txt --verbose=1
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_7dd7e.dir/objects.a
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_7dd7e.dir/objects.a @CMakeFiles\cmTC_7dd7e.dir\objects1.rsp
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe      -v -Wl,--whole-archive CMakeFiles\cmTC_7dd7e.dir/objects.a -Wl,--no-whole-archive  -o cmTC_7dd7e.exe -Wl,--out-implib,libcmTC_7dd7e.dll.a -Wl,--major-image-version,0,--minor-image-version,0  
+Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_ed358/fast"
+C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_ed358.dir\build.make CMakeFiles/cmTC_ed358.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ed358.dir/CMakeCCompilerABI.c.obj
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe     -o CMakeFiles\cmTC_ed358.dir\CMakeCCompilerABI.c.obj   -c "C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\share\cmake-3.7\Modules\CMakeCCompilerABI.c"
+Linking C executable cmTC_ed358.exe
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_ed358.dir\link.txt --verbose=1
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_ed358.dir/objects.a
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_ed358.dir/objects.a @CMakeFiles\cmTC_ed358.dir\objects1.rsp
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe      -v -Wl,--whole-archive CMakeFiles\cmTC_ed358.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ed358.exe -Wl,--out-implib,libcmTC_ed358.dll.a -Wl,--major-image-version,0,--minor-image-version,0  
 Using built-in specs.
 COLLECT_GCC=C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe
 COLLECT_LTO_WRAPPER=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe
@@ -63,25 +63,25 @@ Thread model: posix
 gcc version 4.9.2 (tdm-1) 
 COMPILER_PATH=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/;C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/;C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/bin/
 LIBRARY_PATH=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/;C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/;C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib/;C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_7dd7e.exe' '-mtune=generic' '-march=pentiumpro'
- C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe -plugin C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Marvin\AppData\Local\Temp\ccs5jitf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --exclude-libs=libpthread.a -Bdynamic -o cmTC_7dd7e.exe C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2 -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../.. --whole-archive CMakeFiles\cmTC_7dd7e.dir/objects.a --no-whole-archive --out-implib libcmTC_7dd7e.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtend.o
-mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ed358.exe' '-mtune=generic' '-march=pentiumpro'
+ C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe -plugin C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Marvin\AppData\Local\Temp\cco6aMa7.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --exclude-libs=libpthread.a -Bdynamic -o cmTC_ed358.exe C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2 -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../.. --whole-archive CMakeFiles\cmTC_ed358.dir/objects.a --no-whole-archive --out-implib libcmTC_ed358.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtend.o
+mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_7dd7e/fast"]
-  ignore line: [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_7dd7e.dir\build.make CMakeFiles/cmTC_7dd7e.dir/build]
-  ignore line: [mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_7dd7e.dir/CMakeCCompilerABI.c.obj]
-  ignore line: [C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe     -o CMakeFiles\cmTC_7dd7e.dir\CMakeCCompilerABI.c.obj   -c "C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\share\cmake-3.7\Modules\CMakeCCompilerABI.c"]
-  ignore line: [Linking C executable cmTC_7dd7e.exe]
-  ignore line: ["C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_7dd7e.dir\link.txt --verbose=1]
-  ignore line: ["C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_7dd7e.dir/objects.a]
-  ignore line: [C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_7dd7e.dir/objects.a @CMakeFiles\cmTC_7dd7e.dir\objects1.rsp]
-  ignore line: [C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe      -v -Wl,--whole-archive CMakeFiles\cmTC_7dd7e.dir/objects.a -Wl,--no-whole-archive  -o cmTC_7dd7e.exe -Wl,--out-implib,libcmTC_7dd7e.dll.a -Wl,--major-image-version,0,--minor-image-version,0  ]
+  ignore line: [Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_ed358/fast"]
+  ignore line: [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_ed358.dir\build.make CMakeFiles/cmTC_ed358.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_ed358.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe     -o CMakeFiles\cmTC_ed358.dir\CMakeCCompilerABI.c.obj   -c "C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\share\cmake-3.7\Modules\CMakeCCompilerABI.c"]
+  ignore line: [Linking C executable cmTC_ed358.exe]
+  ignore line: ["C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_ed358.dir\link.txt --verbose=1]
+  ignore line: ["C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_ed358.dir/objects.a]
+  ignore line: [C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_ed358.dir/objects.a @CMakeFiles\cmTC_ed358.dir\objects1.rsp]
+  ignore line: [C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe      -v -Wl,--whole-archive CMakeFiles\cmTC_ed358.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ed358.exe -Wl,--out-implib,libcmTC_ed358.dll.a -Wl,--major-image-version,0,--minor-image-version,0  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe]
   ignore line: [COLLECT_LTO_WRAPPER=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe]
@@ -96,13 +96,13 @@ Parsed C implicit link information from above output:
   ignore line: [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/]
   ignore line: [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib/]
   ignore line: [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_7dd7e.exe' '-mtune=generic' '-march=pentiumpro']
-  link line: [ C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe -plugin C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Marvin\AppData\Local\Temp\ccs5jitf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --exclude-libs=libpthread.a -Bdynamic -o cmTC_7dd7e.exe C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2 -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../.. --whole-archive CMakeFiles\cmTC_7dd7e.dir/objects.a --no-whole-archive --out-implib libcmTC_7dd7e.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ed358.exe' '-mtune=generic' '-march=pentiumpro']
+  link line: [ C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe -plugin C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Marvin\AppData\Local\Temp\cco6aMa7.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --exclude-libs=libpthread.a -Bdynamic -o cmTC_ed358.exe C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2 -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../.. --whole-archive CMakeFiles\cmTC_ed358.dir/objects.a --no-whole-archive --out-implib libcmTC_ed358.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtend.o]
     arg [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe] ==> ignore
     arg [-plugin] ==> ignore
     arg [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll] ==> ignore
     arg [-plugin-opt=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe] ==> ignore
-    arg [-plugin-opt=-fresolution=C:\Users\Marvin\AppData\Local\Temp\ccs5jitf.res] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\Marvin\AppData\Local\Temp\cco6aMa7.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
@@ -121,7 +121,7 @@ Parsed C implicit link information from above output:
     arg [--exclude-libs=libpthread.a] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_7dd7e.exe] ==> ignore
+    arg [cmTC_ed358.exe] ==> ignore
     arg [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o] ==> ignore
     arg [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o] ==> ignore
     arg [-LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2] ==> dir [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2]
@@ -129,10 +129,10 @@ Parsed C implicit link information from above output:
     arg [-LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib] ==> dir [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib]
     arg [-LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../..] ==> dir [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles\cmTC_7dd7e.dir/objects.a] ==> ignore
+    arg [CMakeFiles\cmTC_ed358.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_7dd7e.dll.a] ==> ignore
+    arg [libcmTC_ed358.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
@@ -167,19 +167,19 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_9ef0c/fast"
-C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_9ef0c.dir\build.make CMakeFiles/cmTC_9ef0c.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_9ef0c.dir/feature_tests.c.obj
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe    -std=c11 -o CMakeFiles\cmTC_9ef0c.dir\feature_tests.c.obj   -c "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\feature_tests.c"
-Linking C executable cmTC_9ef0c.exe
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_9ef0c.dir\link.txt --verbose=1
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_9ef0c.dir/objects.a
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_9ef0c.dir/objects.a @CMakeFiles\cmTC_9ef0c.dir\objects1.rsp
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTC_9ef0c.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9ef0c.exe -Wl,--out-implib,libcmTC_9ef0c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_9ef0c.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_de0a4/fast"
+C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_de0a4.dir\build.make CMakeFiles/cmTC_de0a4.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_de0a4.dir/feature_tests.c.obj
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe    -std=c11 -o CMakeFiles\cmTC_de0a4.dir\feature_tests.c.obj   -c "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_de0a4.exe
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_de0a4.dir\link.txt --verbose=1
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_de0a4.dir/objects.a
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_de0a4.dir/objects.a @CMakeFiles\cmTC_de0a4.dir\objects1.rsp
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTC_de0a4.dir/objects.a -Wl,--no-whole-archive  -o cmTC_de0a4.exe -Wl,--out-implib,libcmTC_de0a4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_de0a4.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -189,19 +189,19 @@ mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Inte
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_f95c7/fast"
-C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_f95c7.dir\build.make CMakeFiles/cmTC_f95c7.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_f95c7.dir/feature_tests.c.obj
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe    -std=c99 -o CMakeFiles\cmTC_f95c7.dir\feature_tests.c.obj   -c "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\feature_tests.c"
-Linking C executable cmTC_f95c7.exe
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_f95c7.dir\link.txt --verbose=1
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_f95c7.dir/objects.a
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_f95c7.dir/objects.a @CMakeFiles\cmTC_f95c7.dir\objects1.rsp
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTC_f95c7.dir/objects.a -Wl,--no-whole-archive  -o cmTC_f95c7.exe -Wl,--out-implib,libcmTC_f95c7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_f95c7.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_55bcd/fast"
+C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_55bcd.dir\build.make CMakeFiles/cmTC_55bcd.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_55bcd.dir/feature_tests.c.obj
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe    -std=c99 -o CMakeFiles\cmTC_55bcd.dir\feature_tests.c.obj   -c "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_55bcd.exe
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_55bcd.dir\link.txt --verbose=1
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_55bcd.dir/objects.a
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_55bcd.dir/objects.a @CMakeFiles\cmTC_55bcd.dir\objects1.rsp
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTC_55bcd.dir/objects.a -Wl,--no-whole-archive  -o cmTC_55bcd.exe -Wl,--out-implib,libcmTC_55bcd.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_55bcd.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -211,19 +211,19 @@ mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Inte
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_b3266/fast"
-C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_b3266.dir\build.make CMakeFiles/cmTC_b3266.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_b3266.dir/feature_tests.c.obj
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe    -std=c90 -o CMakeFiles\cmTC_b3266.dir\feature_tests.c.obj   -c "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\feature_tests.c"
-Linking C executable cmTC_b3266.exe
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_b3266.dir\link.txt --verbose=1
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_b3266.dir/objects.a
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_b3266.dir/objects.a @CMakeFiles\cmTC_b3266.dir\objects1.rsp
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTC_b3266.dir/objects.a -Wl,--no-whole-archive  -o cmTC_b3266.exe -Wl,--out-implib,libcmTC_b3266.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_b3266.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_d4d2b/fast"
+C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_d4d2b.dir\build.make CMakeFiles/cmTC_d4d2b.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d4d2b.dir/feature_tests.c.obj
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe    -std=c90 -o CMakeFiles\cmTC_d4d2b.dir\feature_tests.c.obj   -c "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_d4d2b.exe
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d4d2b.dir\link.txt --verbose=1
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_d4d2b.dir/objects.a
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_d4d2b.dir/objects.a @CMakeFiles\cmTC_d4d2b.dir\objects1.rsp
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe       -Wl,--whole-archive CMakeFiles\cmTC_d4d2b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d4d2b.exe -Wl,--out-implib,libcmTC_d4d2b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_d4d2b.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -231,34 +231,34 @@ mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Inte
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_8aa6c/fast"
-C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_8aa6c.dir\build.make CMakeFiles/cmTC_8aa6c.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_8aa6c.dir/testCXXCompiler.cxx.obj
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe      -o CMakeFiles\cmTC_8aa6c.dir\testCXXCompiler.cxx.obj -c "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
-Linking CXX executable cmTC_8aa6c.exe
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_8aa6c.dir\link.txt --verbose=1
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_8aa6c.dir/objects.a
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_8aa6c.dir/objects.a @CMakeFiles\cmTC_8aa6c.dir\objects1.rsp
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe       -Wl,--whole-archive CMakeFiles\cmTC_8aa6c.dir/objects.a -Wl,--no-whole-archive  -o cmTC_8aa6c.exe -Wl,--out-implib,libcmTC_8aa6c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_8aa6c.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_13aab/fast"
+C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_13aab.dir\build.make CMakeFiles/cmTC_13aab.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_13aab.dir/testCXXCompiler.cxx.obj
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe      -o CMakeFiles\cmTC_13aab.dir\testCXXCompiler.cxx.obj -c "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+Linking CXX executable cmTC_13aab.exe
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_13aab.dir\link.txt --verbose=1
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_13aab.dir/objects.a
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_13aab.dir/objects.a @CMakeFiles\cmTC_13aab.dir\objects1.rsp
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe       -Wl,--whole-archive CMakeFiles\cmTC_13aab.dir/objects.a -Wl,--no-whole-archive  -o cmTC_13aab.exe -Wl,--out-implib,libcmTC_13aab.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_13aab.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_0ecee/fast"
-C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_0ecee.dir\build.make CMakeFiles/cmTC_0ecee.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_0ecee.dir/CMakeCXXCompilerABI.cpp.obj
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe      -o CMakeFiles\cmTC_0ecee.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\share\cmake-3.7\Modules\CMakeCXXCompilerABI.cpp"
-Linking CXX executable cmTC_0ecee.exe
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_0ecee.dir\link.txt --verbose=1
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_0ecee.dir/objects.a
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_0ecee.dir/objects.a @CMakeFiles\cmTC_0ecee.dir\objects1.rsp
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe      -v -Wl,--whole-archive CMakeFiles\cmTC_0ecee.dir/objects.a -Wl,--no-whole-archive  -o cmTC_0ecee.exe -Wl,--out-implib,libcmTC_0ecee.dll.a -Wl,--major-image-version,0,--minor-image-version,0  
+Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_656a6/fast"
+C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_656a6.dir\build.make CMakeFiles/cmTC_656a6.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_656a6.dir/CMakeCXXCompilerABI.cpp.obj
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe      -o CMakeFiles\cmTC_656a6.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\share\cmake-3.7\Modules\CMakeCXXCompilerABI.cpp"
+Linking CXX executable cmTC_656a6.exe
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_656a6.dir\link.txt --verbose=1
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_656a6.dir/objects.a
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_656a6.dir/objects.a @CMakeFiles\cmTC_656a6.dir\objects1.rsp
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe      -v -Wl,--whole-archive CMakeFiles\cmTC_656a6.dir/objects.a -Wl,--no-whole-archive  -o cmTC_656a6.exe -Wl,--out-implib,libcmTC_656a6.dll.a -Wl,--major-image-version,0,--minor-image-version,0  
 Using built-in specs.
 COLLECT_GCC=C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe
 COLLECT_LTO_WRAPPER=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe
@@ -268,25 +268,25 @@ Thread model: posix
 gcc version 4.9.2 (tdm-1) 
 COMPILER_PATH=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/;C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/;C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/bin/
 LIBRARY_PATH=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/;C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/;C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib/;C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0ecee.exe' '-mtune=generic' '-march=pentiumpro'
- C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe -plugin C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Marvin\AppData\Local\Temp\ccS2ITZf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --exclude-libs=libpthread.a -Bdynamic -o cmTC_0ecee.exe C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2 -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../.. --whole-archive CMakeFiles\cmTC_0ecee.dir/objects.a --no-whole-archive --out-implib libcmTC_0ecee.dll.a --major-image-version 0 --minor-image-version 0 -Bstatic -lstdc++ -Bdynamic -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtend.o
-mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_656a6.exe' '-mtune=generic' '-march=pentiumpro'
+ C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe -plugin C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Marvin\AppData\Local\Temp\cccQsXw2.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --exclude-libs=libpthread.a -Bdynamic -o cmTC_656a6.exe C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2 -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../.. --whole-archive CMakeFiles\cmTC_656a6.dir/objects.a --no-whole-archive --out-implib libcmTC_656a6.dll.a --major-image-version 0 --minor-image-version 0 -Bstatic -lstdc++ -Bdynamic -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtend.o
+mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_0ecee/fast"]
-  ignore line: [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_0ecee.dir\build.make CMakeFiles/cmTC_0ecee.dir/build]
-  ignore line: [mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_0ecee.dir/CMakeCXXCompilerABI.cpp.obj]
-  ignore line: [C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe      -o CMakeFiles\cmTC_0ecee.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\share\cmake-3.7\Modules\CMakeCXXCompilerABI.cpp"]
-  ignore line: [Linking CXX executable cmTC_0ecee.exe]
-  ignore line: ["C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_0ecee.dir\link.txt --verbose=1]
-  ignore line: ["C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_0ecee.dir/objects.a]
-  ignore line: [C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_0ecee.dir/objects.a @CMakeFiles\cmTC_0ecee.dir\objects1.rsp]
-  ignore line: [C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe      -v -Wl,--whole-archive CMakeFiles\cmTC_0ecee.dir/objects.a -Wl,--no-whole-archive  -o cmTC_0ecee.exe -Wl,--out-implib,libcmTC_0ecee.dll.a -Wl,--major-image-version,0,--minor-image-version,0  ]
+  ignore line: [Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_656a6/fast"]
+  ignore line: [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_656a6.dir\build.make CMakeFiles/cmTC_656a6.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_656a6.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe      -o CMakeFiles\cmTC_656a6.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\share\cmake-3.7\Modules\CMakeCXXCompilerABI.cpp"]
+  ignore line: [Linking CXX executable cmTC_656a6.exe]
+  ignore line: ["C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_656a6.dir\link.txt --verbose=1]
+  ignore line: ["C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_656a6.dir/objects.a]
+  ignore line: [C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_656a6.dir/objects.a @CMakeFiles\cmTC_656a6.dir\objects1.rsp]
+  ignore line: [C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe      -v -Wl,--whole-archive CMakeFiles\cmTC_656a6.dir/objects.a -Wl,--no-whole-archive  -o cmTC_656a6.exe -Wl,--out-implib,libcmTC_656a6.dll.a -Wl,--major-image-version,0,--minor-image-version,0  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe]
   ignore line: [COLLECT_LTO_WRAPPER=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe]
@@ -301,13 +301,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/]
   ignore line: [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib/]
   ignore line: [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0ecee.exe' '-mtune=generic' '-march=pentiumpro']
-  link line: [ C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe -plugin C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Marvin\AppData\Local\Temp\ccS2ITZf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --exclude-libs=libpthread.a -Bdynamic -o cmTC_0ecee.exe C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2 -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../.. --whole-archive CMakeFiles\cmTC_0ecee.dir/objects.a --no-whole-archive --out-implib libcmTC_0ecee.dll.a --major-image-version 0 --minor-image-version 0 -Bstatic -lstdc++ -Bdynamic -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_656a6.exe' '-mtune=generic' '-march=pentiumpro']
+  link line: [ C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe -plugin C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Marvin\AppData\Local\Temp\cccQsXw2.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --exclude-libs=libpthread.a -Bdynamic -o cmTC_656a6.exe C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2 -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib -LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../.. --whole-archive CMakeFiles\cmTC_656a6.dir/objects.a --no-whole-archive --out-implib libcmTC_656a6.dll.a --major-image-version 0 --minor-image-version 0 -Bstatic -lstdc++ -Bdynamic -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtend.o]
     arg [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe] ==> ignore
     arg [-plugin] ==> ignore
     arg [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll] ==> ignore
     arg [-plugin-opt=C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe] ==> ignore
-    arg [-plugin-opt=-fresolution=C:\Users\Marvin\AppData\Local\Temp\ccS2ITZf.res] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\Marvin\AppData\Local\Temp\cccQsXw2.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
@@ -326,7 +326,7 @@ Parsed CXX implicit link information from above output:
     arg [--exclude-libs=libpthread.a] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_0ecee.exe] ==> ignore
+    arg [cmTC_656a6.exe] ==> ignore
     arg [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o] ==> ignore
     arg [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o] ==> ignore
     arg [-LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2] ==> dir [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2]
@@ -334,10 +334,10 @@ Parsed CXX implicit link information from above output:
     arg [-LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib] ==> dir [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib]
     arg [-LC:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../..] ==> dir [C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles\cmTC_0ecee.dir/objects.a] ==> ignore
+    arg [CMakeFiles\cmTC_656a6.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_0ecee.dll.a] ==> ignore
+    arg [libcmTC_656a6.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
@@ -375,19 +375,19 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_15d5b/fast"
-C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_15d5b.dir\build.make CMakeFiles/cmTC_15d5b.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_15d5b.dir/feature_tests.cxx.obj
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe     -std=c++14 -o CMakeFiles\cmTC_15d5b.dir\feature_tests.cxx.obj -c "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\feature_tests.cxx"
-Linking CXX executable cmTC_15d5b.exe
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_15d5b.dir\link.txt --verbose=1
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_15d5b.dir/objects.a
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_15d5b.dir/objects.a @CMakeFiles\cmTC_15d5b.dir\objects1.rsp
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe       -Wl,--whole-archive CMakeFiles\cmTC_15d5b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_15d5b.exe -Wl,--out-implib,libcmTC_15d5b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_15d5b.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_0b560/fast"
+C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_0b560.dir\build.make CMakeFiles/cmTC_0b560.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0b560.dir/feature_tests.cxx.obj
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe     -std=c++14 -o CMakeFiles\cmTC_0b560.dir\feature_tests.cxx.obj -c "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\feature_tests.cxx"
+Linking CXX executable cmTC_0b560.exe
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_0b560.dir\link.txt --verbose=1
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_0b560.dir/objects.a
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_0b560.dir/objects.a @CMakeFiles\cmTC_0b560.dir\objects1.rsp
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe       -Wl,--whole-archive CMakeFiles\cmTC_0b560.dir/objects.a -Wl,--no-whole-archive  -o cmTC_0b560.exe -Wl,--out-implib,libcmTC_0b560.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_0b560.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -450,19 +450,19 @@ mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Inte
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_0a250/fast"
-C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_0a250.dir\build.make CMakeFiles/cmTC_0a250.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_0a250.dir/feature_tests.cxx.obj
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe     -std=c++11 -o CMakeFiles\cmTC_0a250.dir\feature_tests.cxx.obj -c "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\feature_tests.cxx"
-Linking CXX executable cmTC_0a250.exe
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_0a250.dir\link.txt --verbose=1
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_0a250.dir/objects.a
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_0a250.dir/objects.a @CMakeFiles\cmTC_0a250.dir\objects1.rsp
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe       -Wl,--whole-archive CMakeFiles\cmTC_0a250.dir/objects.a -Wl,--no-whole-archive  -o cmTC_0a250.exe -Wl,--out-implib,libcmTC_0a250.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_0a250.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_82212/fast"
+C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_82212.dir\build.make CMakeFiles/cmTC_82212.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_82212.dir/feature_tests.cxx.obj
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe     -std=c++11 -o CMakeFiles\cmTC_82212.dir\feature_tests.cxx.obj -c "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\feature_tests.cxx"
+Linking CXX executable cmTC_82212.exe
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_82212.dir\link.txt --verbose=1
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_82212.dir/objects.a
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_82212.dir/objects.a @CMakeFiles\cmTC_82212.dir\objects1.rsp
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe       -Wl,--whole-archive CMakeFiles\cmTC_82212.dir/objects.a -Wl,--no-whole-archive  -o cmTC_82212.exe -Wl,--out-implib,libcmTC_82212.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_82212.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -525,19 +525,19 @@ mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Inte
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_25054/fast"
-C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_25054.dir\build.make CMakeFiles/cmTC_25054.dir/build
-mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_25054.dir/feature_tests.cxx.obj
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe     -std=c++98 -o CMakeFiles\cmTC_25054.dir\feature_tests.cxx.obj -c "D:\Marvin\Collection\Git\Github\C++\Interview Exercise\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\feature_tests.cxx"
-Linking CXX executable cmTC_25054.exe
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_25054.dir\link.txt --verbose=1
-"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_25054.dir/objects.a
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_25054.dir/objects.a @CMakeFiles\cmTC_25054.dir\objects1.rsp
-C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe       -Wl,--whole-archive CMakeFiles\cmTC_25054.dir/objects.a -Wl,--no-whole-archive  -o cmTC_25054.exe -Wl,--out-implib,libcmTC_25054.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_25054.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/Interview Exercise/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe" "cmTC_42590/fast"
+C:/WorkStation/CodeTool/CodeBlocks/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_42590.dir\build.make CMakeFiles/cmTC_42590.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_42590.dir/feature_tests.cxx.obj
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe     -std=c++98 -o CMakeFiles\cmTC_42590.dir\feature_tests.cxx.obj -c "D:\Marvin\Collection\Git\Github\C++\My Leetcode Solution\106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal\cmake-build-debug\CMakeFiles\feature_tests.cxx"
+Linking CXX executable cmTC_42590.exe
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_42590.dir\link.txt --verbose=1
+"C:\WorkStation\CodeTool\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_42590.dir/objects.a
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_42590.dir/objects.a @CMakeFiles\cmTC_42590.dir\objects1.rsp
+C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe       -Wl,--whole-archive CMakeFiles\cmTC_42590.dir/objects.a -Wl,--no-whole-archive  -o cmTC_42590.exe -Wl,--out-implib,libcmTC_42590.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_42590.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'D:/Marvin/Collection/Git/Github/C++/My Leetcode Solution/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
